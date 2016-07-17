@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name"></string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_maps02">Map</string>
+    <string name="title_activity_maps03">Map</string>
+    <string name="title_activity_maps04">Map</string>
+
+    <string name="titulo_action_bar">Encabezado</string>
+</resources>
